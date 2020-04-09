@@ -1,0 +1,185 @@
+country,cases,deaths,recovered,active,death_rate,recovered_rate,flag,rank
+US,396223,12722,21763,361738,3.21,5.49,assets/flags/US.png,1
+Spain,141942,14045,43208,84689,9.89,30.44,assets/flags/Spain.png,2
+Italy,135586,17127,24392,94067,12.63,17.99,assets/flags/Italy.png,3
+France,110065,10343,19523,80199,9.4,17.74,assets/flags/France.png,4
+Germany,107663,2016,36081,69566,1.87,33.51,assets/flags/Germany.png,5
+China,82718,3335,77410,1973,4.03,93.58,assets/flags/China.png,6
+Iran,62589,3872,27039,31678,6.19,43.2,assets/flags/Iran.png,7
+United Kingdom,55949,6171,325,49453,11.03,0.58,assets/flags/United Kingdom.png,8
+Turkey,34109,725,1582,31802,2.13,4.64,assets/flags/Turkey.png,9
+Switzerland,22253,821,8704,12728,3.69,39.11,assets/flags/Switzerland.png,10
+Belgium,22194,2035,4157,16002,9.17,18.73,assets/flags/Belgium.png,11
+Netherlands,19709,2108,272,17329,10.7,1.38,assets/flags/Netherlands.png,12
+Canada,17872,375,3791,13706,2.1,21.21,assets/flags/Canada.png,13
+Brazil,14034,686,127,13221,4.89,0.9,assets/flags/Brazil.png,14
+Austria,12639,243,4046,8350,1.92,32.01,assets/flags/Austria.png,15
+Portugal,12442,345,184,11913,2.77,1.48,assets/flags/Portugal.png,16
+"Korea, South",10331,192,6694,3445,1.86,64.8,"assets/flags/Korea, South.png",17
+Israel,9248,65,770,8413,0.7,8.33,assets/flags/Israel.png,18
+Sweden,7693,591,205,6897,7.68,2.66,assets/flags/Sweden.png,19
+Russia,7497,58,494,6945,0.77,6.59,assets/flags/Russia.png,20
+Norway,6086,89,32,5965,1.46,0.53,assets/flags/Norway.png,21
+Australia,5895,45,1080,4770,0.76,18.32,assets/flags/Australia.png,22
+Ireland,5709,210,25,5474,3.68,0.44,assets/flags/Ireland.png,23
+India,5311,150,421,4740,2.82,7.93,assets/flags/India.png,24
+Denmark,5266,203,1621,3442,3.85,30.78,assets/flags/Denmark.png,25
+Chile,5116,43,898,4175,0.84,17.55,assets/flags/Chile.png,26
+Czechia,5017,88,172,4757,1.75,3.43,assets/flags/Czechia.png,27
+Poland,4848,129,191,4528,2.66,3.94,assets/flags/Poland.png,28
+Romania,4417,197,460,3760,4.46,10.41,assets/flags/Romania.png,29
+Pakistan,4035,57,429,3549,1.41,10.63,assets/flags/Pakistan.png,30
+Malaysia,3963,63,1321,2579,1.59,33.33,assets/flags/Malaysia.png,31
+Japan,3906,92,592,3222,2.36,15.16,assets/flags/Japan.png,32
+Philippines,3764,177,84,3503,4.7,2.23,assets/flags/Philippines.png,33
+Ecuador,3747,191,100,3456,5.1,2.67,assets/flags/Ecuador.png,34
+Luxembourg,2970,44,500,2426,1.48,16.84,assets/flags/Luxembourg.png,35
+Peru,2954,107,1301,1546,3.62,44.04,assets/flags/Peru.png,36
+Saudi Arabia,2795,41,615,2139,1.47,22.0,assets/flags/Saudi Arabia.png,37
+Indonesia,2738,221,204,2313,8.07,7.45,assets/flags/Indonesia.png,38
+Serbia,2447,61,0,2386,2.49,0.0,assets/flags/Serbia.png,39
+Mexico,2439,125,633,1681,5.13,25.95,assets/flags/Mexico.png,40
+United Arab Emirates,2359,12,186,2161,0.51,7.88,assets/flags/United Arab Emirates.png,41
+Finland,2308,34,300,1974,1.47,13.0,assets/flags/Finland.png,42
+Thailand,2258,27,888,1343,1.2,39.33,assets/flags/Thailand.png,43
+Panama,2100,55,14,2031,2.62,0.67,assets/flags/Panama.png,44
+Qatar,2057,6,150,1901,0.29,7.29,assets/flags/Qatar.png,45
+Dominican Republic,1956,98,36,1822,5.01,1.84,assets/flags/Dominican Republic.png,46
+Greece,1832,81,269,1482,4.42,14.68,assets/flags/Greece.png,47
+Colombia,1780,50,100,1630,2.81,5.62,assets/flags/Colombia.png,48
+South Africa,1749,13,95,1641,0.74,5.43,assets/flags/South Africa.png,49
+Argentina,1628,56,338,1234,3.44,20.76,assets/flags/Argentina.png,50
+Iceland,1586,6,559,1021,0.38,35.25,assets/flags/Iceland.png,51
+Singapore,1481,6,377,1098,0.41,25.46,assets/flags/Singapore.png,52
+Algeria,1468,193,113,1162,13.15,7.7,assets/flags/Algeria.png,53
+Ukraine,1462,45,28,1389,3.08,1.92,assets/flags/Ukraine.png,54
+Egypt,1450,94,276,1080,6.48,19.03,assets/flags/Egypt.png,55
+Croatia,1282,18,167,1097,1.4,13.03,assets/flags/Croatia.png,56
+Morocco,1184,90,93,1001,7.6,7.85,assets/flags/Morocco.png,57
+New Zealand,1160,1,241,918,0.09,20.78,assets/flags/New Zealand.png,58
+Estonia,1149,21,69,1059,1.83,6.01,assets/flags/Estonia.png,59
+Iraq,1122,65,373,684,5.79,33.24,assets/flags/Iraq.png,60
+Slovenia,1059,36,102,921,3.4,9.63,assets/flags/Slovenia.png,61
+Moldova,1056,22,40,994,2.08,3.79,assets/flags/Moldova.png,62
+Lithuania,880,15,8,857,1.7,0.91,assets/flags/Lithuania.png,63
+Belarus,861,13,54,794,1.51,6.27,assets/flags/Belarus.png,64
+Armenia,853,8,87,758,0.94,10.2,assets/flags/Armenia.png,65
+Hungary,817,47,71,699,5.75,8.69,assets/flags/Hungary.png,66
+Bahrain,811,5,458,348,0.62,56.47,assets/flags/Bahrain.png,67
+Bosnia and Herzegovina,764,33,68,663,4.32,8.9,assets/flags/Bosnia and Herzegovina.png,68
+Kuwait,743,1,105,637,0.13,14.13,assets/flags/Kuwait.png,69
+Azerbaijan,717,8,44,665,1.12,6.14,assets/flags/Azerbaijan.png,70
+Diamond Princess,712,11,619,82,1.54,86.94,assets/flags/Diamond Princess.png,71
+Kazakhstan,697,6,51,640,0.86,7.32,assets/flags/Kazakhstan.png,72
+Cameroon,658,9,43,606,1.37,6.53,assets/flags/Cameroon.png,73
+Tunisia,623,23,25,575,3.69,4.01,assets/flags/Tunisia.png,74
+North Macedonia,599,26,30,543,4.34,5.01,assets/flags/North Macedonia.png,75
+Slovakia,581,2,13,566,0.34,2.24,assets/flags/Slovakia.png,76
+Bulgaria,577,23,42,512,3.99,7.28,assets/flags/Bulgaria.png,77
+Lebanon,548,19,62,467,3.47,11.31,assets/flags/Lebanon.png,78
+Latvia,548,2,16,530,0.36,2.92,assets/flags/Latvia.png,79
+Andorra,545,22,39,484,4.04,7.16,assets/flags/Andorra.png,80
+Uzbekistan,520,2,30,488,0.38,5.77,assets/flags/Uzbekistan.png,81
+Cyprus,494,9,47,438,1.82,9.51,assets/flags/Cyprus.png,82
+Costa Rica,483,2,24,457,0.41,4.97,assets/flags/Costa Rica.png,83
+Uruguay,424,7,150,267,1.65,35.38,assets/flags/Uruguay.png,84
+Afghanistan,423,14,18,391,3.31,4.26,assets/flags/Afghanistan.png,85
+Cuba,396,11,27,358,2.78,6.82,assets/flags/Cuba.png,86
+Burkina Faso,384,19,127,238,4.95,33.07,assets/flags/Burkina Faso.png,87
+Albania,383,22,131,230,5.74,34.2,assets/flags/Albania.png,88
+Taiwan,376,5,57,314,1.33,15.16,assets/flags/Taiwan.png,89
+Oman,371,2,67,302,0.54,18.06,assets/flags/Oman.png,90
+Jordan,353,6,138,209,1.7,39.09,assets/flags/Jordan.png,91
+Cote d'Ivoire,349,3,41,305,0.86,11.75,assets/flags/Cote d'Ivoire.png,92
+Honduras,305,22,6,277,7.21,1.97,assets/flags/Honduras.png,93
+Malta,293,0,5,288,0.0,1.71,assets/flags/Malta.png,94
+Ghana,287,5,31,251,1.74,10.8,assets/flags/Ghana.png,95
+San Marino,279,34,40,205,12.19,14.34,assets/flags/San Marino.png,96
+Niger,278,11,26,241,3.96,9.35,assets/flags/Niger.png,97
+Mauritius,268,7,8,253,2.61,2.99,assets/flags/Mauritius.png,98
+West Bank and Gaza,261,1,42,218,0.38,16.09,assets/flags/West Bank and Gaza.png,99
+Nigeria,254,6,44,204,2.36,17.32,assets/flags/Nigeria.png,100
+Vietnam,249,0,123,126,0.0,49.4,assets/flags/Vietnam.png,101
+Montenegro,241,2,4,235,0.83,1.66,assets/flags/Montenegro.png,102
+Senegal,237,2,105,130,0.84,44.3,assets/flags/Senegal.png,103
+Kyrgyzstan,228,4,33,191,1.75,14.47,assets/flags/Kyrgyzstan.png,104
+Georgia,196,3,46,147,1.53,23.47,assets/flags/Georgia.png,105
+Bolivia,194,14,2,178,7.22,1.03,assets/flags/Bolivia.png,106
+Sri Lanka,185,6,42,137,3.24,22.7,assets/flags/Sri Lanka.png,107
+Congo (Kinshasa),180,18,9,153,10.0,5.0,assets/flags/Congo (Kinshasa).png,108
+Kenya,172,6,7,159,3.49,4.07,assets/flags/Kenya.png,109
+Kosovo,170,4,24,142,2.35,14.12,assets/flags/Kosovo.png,110
+Venezuela,165,7,65,93,4.24,39.39,assets/flags/Venezuela.png,111
+Bangladesh,164,17,33,114,10.37,20.12,assets/flags/Bangladesh.png,112
+Guinea,144,0,5,139,0.0,3.47,assets/flags/Guinea.png,113
+Brunei,135,1,85,49,0.74,62.96,assets/flags/Brunei.png,114
+Paraguay,115,5,15,95,4.35,13.04,assets/flags/Paraguay.png,115
+Cambodia,115,0,58,57,0.0,50.43,assets/flags/Cambodia.png,116
+Trinidad and Tobago,107,8,1,98,7.48,0.93,assets/flags/Trinidad and Tobago.png,117
+Rwanda,105,0,7,98,0.0,6.67,assets/flags/Rwanda.png,118
+Djibouti,90,0,9,81,0.0,10.0,assets/flags/Djibouti.png,119
+Madagascar,88,0,7,81,0.0,7.95,assets/flags/Madagascar.png,120
+Monaco,79,1,4,74,1.27,5.06,assets/flags/Monaco.png,121
+Liechtenstein,78,1,55,22,1.28,70.51,assets/flags/Liechtenstein.png,122
+El Salvador,78,4,5,69,5.13,6.41,assets/flags/El Salvador.png,123
+Guatemala,77,3,17,57,3.9,22.08,assets/flags/Guatemala.png,124
+Togo,65,3,23,39,4.62,35.38,assets/flags/Togo.png,125
+Barbados,63,3,6,54,4.76,9.52,assets/flags/Barbados.png,126
+Jamaica,63,3,8,52,4.76,12.7,assets/flags/Jamaica.png,127
+Mali,56,5,12,39,8.93,21.43,assets/flags/Mali.png,128
+Ethiopia,52,2,4,46,3.85,7.69,assets/flags/Ethiopia.png,129
+Uganda,52,0,0,52,0.0,0.0,assets/flags/Uganda.png,130
+Congo (Brazzaville),45,5,2,38,11.11,4.44,assets/flags/Congo (Brazzaville).png,131
+Zambia,39,1,7,31,2.56,17.95,assets/flags/Zambia.png,132
+Bahamas,33,6,5,22,18.18,15.15,assets/flags/Bahamas.png,133
+Guinea-Bissau,33,0,0,33,0.0,0.0,assets/flags/Guinea-Bissau.png,134
+Guyana,33,5,8,20,15.15,24.24,assets/flags/Guyana.png,135
+Eritrea,31,0,0,31,0.0,0.0,assets/flags/Eritrea.png,136
+Gabon,30,1,1,28,3.33,3.33,assets/flags/Gabon.png,137
+Benin,26,1,5,20,3.85,19.23,assets/flags/Benin.png,138
+Haiti,25,1,0,24,4.0,0.0,assets/flags/Haiti.png,139
+Tanzania,24,1,5,18,4.17,20.83,assets/flags/Tanzania.png,140
+Burma,22,1,0,21,4.55,0.0,assets/flags/Burma.png,141
+Libya,20,1,1,18,5.0,5.0,assets/flags/Libya.png,142
+Antigua and Barbuda,19,1,0,18,5.26,0.0,assets/flags/Antigua and Barbuda.png,143
+Maldives,19,0,13,6,0.0,68.42,assets/flags/Maldives.png,144
+Syria,19,2,3,14,10.53,15.79,assets/flags/Syria.png,145
+Angola,17,2,2,13,11.76,11.76,assets/flags/Angola.png,146
+Namibia,16,0,3,13,0.0,18.75,assets/flags/Namibia.png,147
+Equatorial Guinea,16,0,3,13,0.0,18.75,assets/flags/Equatorial Guinea.png,148
+Fiji,15,0,0,15,0.0,0.0,assets/flags/Fiji.png,149
+Mongolia,15,0,4,11,0.0,26.67,assets/flags/Mongolia.png,150
+Dominica,15,0,1,14,0.0,6.67,assets/flags/Dominica.png,151
+Sudan,14,2,2,10,14.29,14.29,assets/flags/Sudan.png,152
+Liberia,14,3,3,8,21.43,21.43,assets/flags/Liberia.png,153
+Saint Lucia,14,0,1,13,0.0,7.14,assets/flags/Saint Lucia.png,154
+Laos,14,0,0,14,0.0,0.0,assets/flags/Laos.png,155
+Grenada,12,0,0,12,0.0,0.0,assets/flags/Grenada.png,156
+Seychelles,11,0,0,11,0.0,0.0,assets/flags/Seychelles.png,157
+Saint Kitts and Nevis,11,0,0,11,0.0,0.0,assets/flags/Saint Kitts and Nevis.png,158
+Zimbabwe,11,2,0,9,18.18,0.0,assets/flags/Zimbabwe.png,159
+Eswatini,10,0,4,6,0.0,40.0,assets/flags/Eswatini.png,160
+Suriname,10,1,0,9,10.0,0.0,assets/flags/Suriname.png,161
+Chad,10,0,2,8,0.0,20.0,assets/flags/Chad.png,162
+Mozambique,10,0,1,9,0.0,10.0,assets/flags/Mozambique.png,163
+Nepal,9,0,1,8,0.0,11.11,assets/flags/Nepal.png,164
+MS Zaandam,9,2,0,7,22.22,0.0,assets/flags/MS Zaandam.png,165
+Saint Vincent and the Grenadines,8,0,1,7,0.0,12.5,assets/flags/Saint Vincent and the Grenadines.png,166
+Central African Republic,8,0,0,8,0.0,0.0,assets/flags/Central African Republic.png,167
+Somalia,8,0,1,7,0.0,12.5,assets/flags/Somalia.png,168
+Malawi,8,1,0,7,12.5,0.0,assets/flags/Malawi.png,169
+Cabo Verde,7,1,1,5,14.29,14.29,assets/flags/Cabo Verde.png,170
+Belize,7,1,0,6,14.29,0.0,assets/flags/Belize.png,171
+Holy See,7,0,0,7,0.0,0.0,assets/flags/Holy See.png,172
+Sierra Leone,6,0,0,6,0.0,0.0,assets/flags/Sierra Leone.png,173
+Botswana,6,1,0,5,16.67,0.0,assets/flags/Botswana.png,174
+Mauritania,6,1,2,3,16.67,33.33,assets/flags/Mauritania.png,175
+Nicaragua,6,1,0,5,16.67,0.0,assets/flags/Nicaragua.png,176
+Bhutan,5,0,2,3,0.0,40.0,assets/flags/Bhutan.png,177
+Western Sahara,4,0,0,4,0.0,0.0,assets/flags/Western Sahara.png,178
+Gambia,4,1,2,1,25.0,50.0,assets/flags/Gambia.png,179
+Sao Tome and Principe,4,0,0,4,0.0,0.0,assets/flags/Sao Tome and Principe.png,180
+Burundi,3,0,0,3,0.0,0.0,assets/flags/Burundi.png,181
+Papua New Guinea,2,0,0,2,0.0,0.0,assets/flags/Papua New Guinea.png,182
+South Sudan,2,0,0,2,0.0,0.0,assets/flags/South Sudan.png,183
+Timor-Leste,1,0,0,1,0.0,0.0,assets/flags/Timor-Leste.png,184
